@@ -1,0 +1,54 @@
+
+.firstPage{
+    background-color: #daffef;
+    text-align: justify;
+}
+
+h1{
+    font-size: 80px;
+    padding: 3px;
+    text-align: center;
+    color: rgb(16, 93, 67);
+}
+
+h3{
+    font-size: 30px;
+    padding: 15px 15px 15px 15px;
+    text-align:left;
+    margin-bottom: 0px;
+    color: rgb(16, 93, 67);
+    margin: 100px 100px 0px;
+}
+
+h5{
+    font-size: 30px;
+    padding: 3px;
+    text-align: center;
+    margin-bottom: 0px;
+    color: rgb(16, 93, 67);
+}
+
+.firstImage{
+    float: right;
+    background-color: #daffef;
+    padding: 10px 10px 0px;
+}
+
+p{
+    padding: 15px;
+    text-align: justify;
+    margin-bottom: 0px;
+    font-size: 25px;
+    color: rgb(15, 133, 94);
+    margin: 0px 100px 100px 100px;
+}
+
+.secondPage{
+    text-align: justify;
+}
+
+.thirdPage{
+    background-color: #daffef;
+    text-align: justify;
+}
+
